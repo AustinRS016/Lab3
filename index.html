@@ -3092,8 +3092,9 @@
 		<p>This map shows all the WDFW fish hatcheries in Washington state. Click on the fish icon to see the hatchery name. Turn on the WRIA layer and click any location on the map to see which water resource inventory area it belongs to.</p>
 
 
+
 		<!-- map2 -->
-		<h1 class="headers"><center>Progression of Dam Construction on the Columbia and Snake Rivers</center></h1>
+		<h1 class="headers"><center>Dams Constructed on the Two Largest Rivers in the Colombia River Watershed Basin: the Columbia and the Snake River</center></h1>
 		<center>
 
 		<div id='console'>
@@ -3112,12 +3113,11 @@
 
 				<div class='session' id='sliderbar'>
 					  <h3>Year: <label id='year'>1901</label></h3>
-					  <input id='slider' class='row' type='range' min='1901' max='1984' step='1' value='1901' />
+					  <input id='slider' class='row' type='range' min='1901' max='1984' step='1' value='1901'></input>
 				</div>
 		</div>
 		<div id="map2">
 		</div></center>
-
 
 	  	<script>
 				mapboxgl.accessToken = 'pk.eyJ1IjoiYXVzdGlucnMxNiIsImEiOiJja2hjcjAyYWwwMTIyMnVsNXc3ajUwMmk0In0.b8-Uodu2rXl9TvsX7vatSQ';
@@ -3134,8 +3134,6 @@
 				  zoom: 5.2, // starting zoom
 				});
 
-
-
 		//Columbia and Snake River dams
 		map2.on('load', function(){
 			 //add a source layer for Columbia and Snake River dams
@@ -3146,7 +3144,7 @@
 
 
 				 //add dams as points (circles) to the map
-				 var CSRDS = map2.addLayer({
+				 map2.addLayer({
 					 "id":"CRB",
 					 "type":"circle",
 					 "source":"CRB",
@@ -3167,6 +3165,7 @@
 					},
 					 'filter': ['<=', ['number', ['get', 'Year of completion']], 1901],
 				 });
+
 				 document.getElementById('slider').addEventListener('input', function(e) {
 				   var year = parseInt(e.target.value);
 				   // update the map
@@ -3174,6 +3173,7 @@
 				   // update text in the UI
 				   document.getElementById('year').innerText = year;
 				 });
+
 
 
 			 });
