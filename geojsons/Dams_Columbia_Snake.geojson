@@ -1,0 +1,617 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5663889,52.0775 ]
+    },
+    "properties": {
+    "Name":"Mica Dam",
+    "Height (meters)":240,
+    "Capacity (MW)":"2,805",
+    "Province/State(s)":"British Columbia",
+    "Longitude":"52°04′39″N",
+    "Latitude":"118°33′59″W",
+    "Year of completion":1973,
+    "Owner":"BC Hydro",
+    "Reservoir formed":"Kinbasket Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1933333,51.04916667 ]
+    },
+    "properties": {
+    "Name":"Revelstoke Dam",
+    "Height (meters)":175,
+    "Capacity (MW)":"2,480",
+    "Province/State(s)":"British Columbia",
+    "Longitude":"51°02′57″N",
+    "Latitude":"118°11′36″W",
+    "Year of completion":1984,
+    "Owner":"BC Hydro",
+    "Reservoir formed":"Revelstoke Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7716667,49.33833333 ]
+    },
+    "properties": {
+    "Name":"Keenleyside Dam",
+    "Height (meters)":52,
+    "Capacity (MW)":"185",
+    "Province/State(s)":"British Columbia",
+    "Longitude":"49°20′18″N",
+    "Latitude":"117°46′18″W",
+    "Year of completion":1968,
+    "Owner":"BC Hydro",
+    "Reservoir formed":"Raised Arrow Lakes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9775,47.95722222 ]
+    },
+    "properties": {
+    "Name":"Grand Coulee Dam",
+    "Height (meters)":170,
+    "Capacity (MW)":"6,809",
+    "Province/State(s)":"Washington",
+    "Longitude":"47°57′26″N",
+    "Latitude":"118°58′39″W",
+    "Year of completion":1941,
+    "Owner":"USBR",
+    "Reservoir formed":"Franklin D. Roosevelt Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.6386111,47.995 ]
+    },
+    "properties": {
+    "Name":"Chief Joseph Dam",
+    "Height (meters)":72,
+    "Capacity (MW)":"2,620",
+    "Province/State(s)":"Washington",
+    "Longitude":"47°59′42″N",
+    "Latitude":"119°38′19″W",
+    "Year of completion":1955,
+    "Owner":"USACE",
+    "Reservoir formed":"Rufus Woods Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8641667,47.94722222 ]
+    },
+    "properties": {
+    "Name":"Wells Dam",
+    "Height (meters)":49,
+    "Capacity (MW)":"840",
+    "Province/State(s)":"Washington",
+    "Longitude":"47°56′50″N",
+    "Latitude":"119°51′51″W",
+    "Year of completion":1967,
+    "Owner":"Douglas PUD",
+    "Reservoir formed":"Lake Pateros"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.2947222,47.53305556 ]
+    },
+    "properties": {
+    "Name":"Rocky Reach Dam",
+    "Height (meters)":40,
+    "Capacity (MW)":"1,287",
+    "Province/State(s)":"Washington",
+    "Longitude":"47°31′59″N",
+    "Latitude":"120°17′41″W",
+    "Year of completion":1961,
+    "Owner":"Chelan PUD",
+    "Reservoir formed":"Lake Entiat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.0944444,47.3425 ]
+    },
+    "properties": {
+    "Name":"Rock Island Dam",
+    "Height (meters)":41,
+    "Capacity (MW)":"660",
+    "Province/State(s)":"Washington",
+    "Longitude":"47°20′33″N",
+    "Latitude":"120°05′40″W",
+    "Year of completion":1933,
+    "Owner":"Chelan PUD",
+    "Reservoir formed":"Rock Island Pool"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9702778,46.87777778 ]
+    },
+    "properties": {
+    "Name":"Wanapum Dam",
+    "Height (meters)":56,
+    "Capacity (MW)":"1,092",
+    "Province/State(s)":"Washington",
+    "Longitude":"46°52′40″N",
+    "Latitude":"119°58′13″W",
+    "Year of completion":1963,
+    "Owner":"Grant PUD",
+    "Reservoir formed":"Lake Wanapum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.91,46.64416667 ]
+    },
+    "properties": {
+    "Name":"Priest Rapids Dam",
+    "Height (meters)":54,
+    "Capacity (MW)":"955.6",
+    "Province/State(s)":"Washington",
+    "Longitude":"46°38′39″N",
+    "Latitude":"119°54′36″W",
+    "Year of completion":1961,
+    "Owner":"Grant PUD",
+    "Reservoir formed":"Priest Rapids Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2980556,45.93527778 ]
+    },
+    "properties": {
+    "Name":"McNary Dam",
+    "Height (meters)":56,
+    "Capacity (MW)":"1,133",
+    "Province/State(s)":"Washington /\n Oregon border",
+    "Longitude":"45°56′07″N",
+    "Latitude":"119°17′53″W",
+    "Year of completion":1954,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Wallula"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.6936111,45.71583333 ]
+    },
+    "properties": {
+    "Name":"John Day Dam",
+    "Height (meters)":56,
+    "Capacity (MW)":"2,485",
+    "Province/State(s)":"Washington /\n Oregon border",
+    "Longitude":"45°42′57″N",
+    "Latitude":"120°41′37″W",
+    "Year of completion":1971,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Umatilla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1338889,45.61388889 ]
+    },
+    "properties": {
+    "Name":"The Dalles Dam",
+    "Height (meters)":79,
+    "Capacity (MW)":"2,038",
+    "Province/State(s)":"Washington /\n Oregon border",
+    "Longitude":"45°36′50″N",
+    "Latitude":"121°08′02″W",
+    "Year of completion":1957,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Celilo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9408333,45.645 ]
+    },
+    "properties": {
+    "Name":"Bonneville Dam",
+    "Height (meters)":60,
+    "Capacity (MW)":"1,190",
+    "Province/State(s)":"Washington /\n Oregon border",
+    "Longitude":"45°38′42″N",
+    "Latitude":"121°56′27″W",
+    "Year of completion":1937,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Bonneville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.59,43.85833333 ]
+    },
+    "properties": {
+    "Name":"Jackson Lake Dam",
+    "Height (meters)":20,
+    "Capacity (MW)":"0",
+    "Province/State(s)":"Wyoming",
+    "Longitude":"43°51′30″N",
+    "Latitude":"110°35′24″W",
+    "Year of completion":1911,
+    "Owner":"USBR",
+    "Reservoir formed":"Jackson Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2033333,43.33305556 ]
+    },
+    "properties": {
+    "Name":"Palisades Dam",
+    "Height (meters)":82,
+    "Capacity (MW)":"176.6",
+    "Province/State(s)":"Idaho",
+    "Longitude":"43°19′59″N",
+    "Latitude":"111°12′12″W",
+    "Year of completion":1957,
+    "Owner":"USBR",
+    "Reservoir formed":"Palisades Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1022222,43.42194444 ]
+    },
+    "properties": {
+    "Name":"Gem State Dam",
+    "Height (meters)":12,
+    "Capacity (MW)":"22.6",
+    "Province/State(s)":"Idaho",
+    "Longitude":"43°25′19″N",
+    "Latitude":"112°06′08″W",
+    "Year of completion":1982,
+    "Owner":"City of Idaho Falls",
+    "Reservoir formed":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8763889,42.77861111 ]
+    },
+    "properties": {
+    "Name":"American Falls Dam",
+    "Height (meters)":32,
+    "Capacity (MW)":"112.4",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°46′43″N",
+    "Latitude":"112°52′35″W",
+    "Year of completion":1927,
+    "Owner":"USBR",
+    "Reservoir formed":"American Falls Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4841667,42.66944444 ]
+    },
+    "properties": {
+    "Name":"Minidoka Dam",
+    "Height (meters)":26,
+    "Capacity (MW)":"28.5",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°40′10″N",
+    "Latitude":"113°29′03″W",
+    "Year of completion":1909,
+    "Owner":"USBR",
+    "Reservoir formed":"Lake Walcott"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0097222,42.525 ]
+    },
+    "properties": {
+    "Name":"Milner Dam",
+    "Height (meters)":12,
+    "Capacity (MW)":"59.5",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°31′30″N",
+    "Latitude":"114°00′35″W",
+    "Year of completion":1905,
+    "Owner":"Milner Dam, Inc.",
+    "Reservoir formed":"Milner Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3555556,42.58916667 ]
+    },
+    "properties": {
+    "Name":"Twin Falls Dam",
+    "Height (meters)":7.6,
+    "Capacity (MW)":"52.9",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°35′21″N",
+    "Latitude":"114°21′20″W",
+    "Year of completion":1935,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Twin Falls Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4011111,42.59638889 ]
+    },
+    "properties": {
+    "Name":"Shoshone Falls Dam",
+    "Height (meters)":4.9,
+    "Capacity (MW)":"64",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°35′47″N",
+    "Latitude":"114°24′04″W",
+    "Year of completion":1907,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Shoshone Falls Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8958333,42.76638889 ]
+    },
+    "properties": {
+    "Name":"Upper Salmon Falls Dam",
+    "Height (meters)":5.5,
+    "Capacity (MW)":"34.5",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°45′59″N",
+    "Latitude":"114°53′45″W",
+    "Year of completion":1937,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Upper Salmon Falls Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.915,42.84166667 ]
+    },
+    "properties": {
+    "Name":"Lower Salmon Falls Dam",
+    "Height (meters)":12,
+    "Capacity (MW)":"60",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°50′30″N",
+    "Latitude":"114°54′54″W",
+    "Year of completion":1910,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Lower Salmon Falls Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0711111,42.91361111 ]
+    },
+    "properties": {
+    "Name":"Bliss Dam",
+    "Height (meters)":26,
+    "Capacity (MW)":"75",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°54′49″N",
+    "Latitude":"115°04′16″W",
+    "Year of completion":1950,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Bliss Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9752778,42.9475 ]
+    },
+    "properties": {
+    "Name":"C. J. Strike Dam",
+    "Height (meters)":35,
+    "Capacity (MW)":"82.8",
+    "Province/State(s)":"Idaho",
+    "Longitude":"42°56′51″N",
+    "Latitude":"115°58′31″W",
+    "Year of completion":1952,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"C. J. Strike Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.3794444,43.24305556 ]
+    },
+    "properties": {
+    "Name":"Swan Falls Dam",
+    "Height (meters)":33,
+    "Capacity (MW)":"25",
+    "Province/State(s)":"Idaho",
+    "Longitude":"43°14′35″N",
+    "Latitude":"116°22′46″W",
+    "Year of completion":1901,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Swan Falls Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.9008333,44.83694444 ]
+    },
+    "properties": {
+    "Name":"Brownlee Dam",
+    "Height (meters)":130,
+    "Capacity (MW)":"585",
+    "Province/State(s)":"Idaho /\n Oregon border",
+    "Longitude":"44°50′13″N",
+    "Latitude":"116°54′03″W",
+    "Year of completion":1959,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Brownlee Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.8352778,44.97083333 ]
+    },
+    "properties": {
+    "Name":"Oxbow Dam",
+    "Height (meters)":53,
+    "Capacity (MW)":"220",
+    "Province/State(s)":"Idaho /\n Oregon border",
+    "Longitude":"44°58′15″N",
+    "Latitude":"116°50′07″W",
+    "Year of completion":1961,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Oxbow Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.7013889,45.24277778 ]
+    },
+    "properties": {
+    "Name":"Hells Canyon Dam",
+    "Height (meters)":100,
+    "Capacity (MW)":"450",
+    "Province/State(s)":"Idaho /\n Oregon border",
+    "Longitude":"45°14′34″N",
+    "Latitude":"116°42′05″W",
+    "Year of completion":1967,
+    "Owner":"Idaho Power Company",
+    "Reservoir formed":"Hells Canyon Reservoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.4280556,46.66111111 ]
+    },
+    "properties": {
+    "Name":"Lower Granite Dam",
+    "Height (meters)":55,
+    "Capacity (MW)":"932",
+    "Province/State(s)":"Washington",
+    "Longitude":"46°39′40″N",
+    "Latitude":"117°25′41″W",
+    "Year of completion":1975,
+    "Owner":"USACE",
+    "Reservoir formed":"Lower Granite Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0277778,46.58694444 ]
+    },
+    "properties": {
+    "Name":"Little Goose Dam",
+    "Height (meters)":77,
+    "Capacity (MW)":"932",
+    "Province/State(s)":"Washington",
+    "Longitude":"46°35′13″N",
+    "Latitude":"118°01′40″W",
+    "Year of completion":1970,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Bryan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5388889,46.56333333 ]
+    },
+    "properties": {
+    "Name":"Lower Monumental Dam",
+    "Height (meters)":46,
+    "Capacity (MW)":"930",
+    "Province/State(s)":"Washington",
+    "Longitude":"46°33′48″N",
+    "Latitude":"118°32′20″W",
+    "Year of completion":1969,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Herbert G. West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.8797222,46.24944444 ]
+    },
+    "properties": {
+    "Name":"Ice Harbor Dam",
+    "Height (meters)":65,
+    "Capacity (MW)":"693",
+    "Province/State(s)":"Washington",
+    "Longitude":"46°14′58″N",
+    "Latitude":"118°52′47″W",
+    "Year of completion":1961,
+    "Owner":"USACE",
+    "Reservoir formed":"Lake Sacajawea"
+    }
+  }
+]
+}
