@@ -43,6 +43,9 @@
 				 			"id":"WRIA",
 				 			"type":"fill",
 				 			"source":"WRIA",
+							"layout": {
+								"visibility": 'none',
+							},
 							"paint": {
 								"fill-color": 'rgba(111, 171, 245, .15)',
 								"fill-outline-color": 'rgba(0,0,0,1)',
@@ -3063,7 +3066,7 @@
 
 							var link = document.createElement('a');
 							link.href = '#';
-							link.className = 'active';
+							link.className = '';
 							link.textContent = id;
 
 							link.onclick = function (e) {
@@ -3169,7 +3172,7 @@
 				 document.getElementById('slider').addEventListener('input', function(e) {
 				   var year = parseInt(e.target.value);
 				   // update the map
-				   map.setFilter('CRB', ['==', ['number', ['get', 'Year of completion']], year]);
+				   map2.setFilter('CRB', ['<=', ['number', ['get', 'Year of completion']], year]);
 				   // update text in the UI
 				   document.getElementById('year').innerText = year;
 				 });
